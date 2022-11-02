@@ -197,7 +197,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [208, 340.0]
+    coordinate: [192, 340.0]
     rotation: 0
     state: disabled
 - name: blocks_file_source_1
@@ -219,7 +219,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [256, 660.0]
+    coordinate: [200, 644.0]
     rotation: 0
     state: disabled
 - name: blocks_file_source_2
